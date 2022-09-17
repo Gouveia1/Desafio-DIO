@@ -1,4 +1,4 @@
-# Desafio-DIO :computer:
-Demonstrando um pouco do que aprendi :man student:
+# Desafio-DIO 💻
+Demonstrando um pouco do que aprendi  👨‍🎓
 
 Apresentação do 1° projeto de muitos projetos que virão !
